@@ -67,5 +67,16 @@
     "originalMessage": "Found a new CVE. Please read my article:\n\nhttps://shlok.com/abcd",
     "geminiAnalysis": "The WhatsApp message announces the sender's discovery of a new Common Vulnerabilities and Exposures (CVE) and invites the recipient to read their related article. The shared URL, `https://shlok.com/abcd`, appears to be a direct link to a page on a personal or company blog/website. The nature of the shared link is a **technical article or blog post**, intended for sharing specific research and information, rather than general news, e-commerce, or social media content. The content category is **Cybersecurity Research**.",
     "id": "mi4v0x3qwyklcvtki6e"
+  },
+  {
+    "url": "https://medium.com/axgavjsgak/ahsishs",
+    "domain": "medium.com",
+    "timestamp": "2025-11-18T17:45:09.097Z",
+    "sender": "Shlok",
+    "group": "testing",
+    "messageId": "false_120363421288784316@g.us_3AE245B70F24843CD57F_148567331184871@lid",
+    "originalMessage": "https://medium.com/axgavjsgak/ahsishs\n\n\nPlease read about my new IDOR finding on lenskart.com",
+    "geminiAnalysis": "The WhatsApp message contains a link to a Medium.com blog post where the sender requests the recipient to read about their new discovery: an IDOR (Insecure Direct Object Reference) vulnerability found on the e-commerce website Lenskart.com. The URL points to a technical article or personal research blog post specifically detailing a cybersecurity vulnerability.\n\n**Nature of shared link:** Technical blogging/research.\n**Category:** Cybersecurity / Information Security Research.",
+    "id": "mi4v638p5xihka02a7i"
   }
 ]
