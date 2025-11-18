@@ -78,5 +78,16 @@
     "originalMessage": "https://medium.com/axgavjsgak/ahsishs\n\n\nPlease read about my new IDOR finding on lenskart.com",
     "geminiAnalysis": "The WhatsApp message contains a link to a Medium.com blog post where the sender requests the recipient to read about their new discovery: an IDOR (Insecure Direct Object Reference) vulnerability found on the e-commerce website Lenskart.com. The URL points to a technical article or personal research blog post specifically detailing a cybersecurity vulnerability.\n\n**Nature of shared link:** Technical blogging/research.\n**Category:** Cybersecurity / Information Security Research.",
     "id": "mi4v638p5xihka02a7i"
+  },
+  {
+    "url": "https://crac.com",
+    "domain": "crac.com",
+    "timestamp": "2025-11-18T18:01:19.090Z",
+    "sender": "Shlok",
+    "group": "testing",
+    "messageId": "false_120363421288784316@g.us_3A124551EC099F4D00C0_148567331184871@lid",
+    "originalMessage": "pfm portfolio:\n\n\nhttps://crac.com",
+    "geminiAnalysis": "The WhatsApp message refers to a \"pfm portfolio,\" strongly indicating content related to personal financial management or an investment portfolio. The accompanying URL, `https://crac.com`, is presented as the resource for this portfolio. While the domain `crac.com` is generic and doesn't immediately reveal its specific purpose, in this context, the nature of the shared link is financial, likely leading to a platform for portfolio management, an informational site about investments, or a specific financial report. It is not immediately identifiable as news, e-commerce, or social media.\n\n**Category:** Finance / Financial Management",
+    "id": "mi4vqvozjwg0hmegam"
   }
 ]
