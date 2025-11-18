@@ -100,5 +100,16 @@
     "originalMessage": "Hii\n\nhttps://if.com",
     "geminiAnalysis": "The message consists of a casual greeting, \"Hii,\" followed by a link to `https://if.com`. This URL directs to the official website of **If P&C Insurance**, a large Nordic insurance provider. The shared link is therefore **corporate/business in nature**, specifically for a financial services company.\n\n**Category:** Financial Services / Insurance",
     "id": "mi4vr75c9ytej955hwq"
+  },
+  {
+    "url": "https://ahahs.com",
+    "domain": "ahahs.com",
+    "timestamp": "2025-11-18T18:01:42.223Z",
+    "sender": "Shlok",
+    "group": "testing",
+    "messageId": "false_120363421288784316@g.us_3AEC87A072F5EC3330FF_148567331184871@lid",
+    "originalMessage": "hello\n\nhttps://ahahs.com",
+    "geminiAnalysis": "The message consists of a very generic greeting, \"hello,\" followed by a single URL. The URL, `https://ahahs.com`, points to an unfamiliar domain that does not immediately suggest a common category like news, e-commerce, or social media. Without further context or visiting the site, its exact nature is unknown; it could be a personal website, a niche informational page, or potentially something less benign like spam or a scam. The shared link is **unknown/general**, as its specific content or purpose cannot be determined from the provided information.",
+    "id": "mi4vrdjj7vba4hdkb3d"
   }
 ]
