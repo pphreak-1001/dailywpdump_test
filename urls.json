@@ -56,5 +56,16 @@
     "originalMessage": "https://xyz.com\n\nRead my cve",
     "geminiAnalysis": "No analysis performed.",
     "id": "mi4uxshfpgi0ft8u77k"
+  },
+  {
+    "url": "https://shlok.com/abcd",
+    "domain": "shlok.com",
+    "timestamp": "2025-11-18T17:41:07.861Z",
+    "sender": "Shlok",
+    "group": "testing",
+    "messageId": "false_120363421288784316@g.us_3ACFF50E41DF27FC0DB4_148567331184871@lid",
+    "originalMessage": "Found a new CVE. Please read my article:\n\nhttps://shlok.com/abcd",
+    "geminiAnalysis": "The WhatsApp message announces the sender's discovery of a new Common Vulnerabilities and Exposures (CVE) and invites the recipient to read their related article. The shared URL, `https://shlok.com/abcd`, appears to be a direct link to a page on a personal or company blog/website. The nature of the shared link is a **technical article or blog post**, intended for sharing specific research and information, rather than general news, e-commerce, or social media content. The content category is **Cybersecurity Research**.",
+    "id": "mi4v0x3qwyklcvtki6e"
   }
 ]
