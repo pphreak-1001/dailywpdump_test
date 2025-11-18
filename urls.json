@@ -45,5 +45,16 @@
     "originalMessage": "Found a new CVE. Please read my article:\n\nhttps://medium.com/abcd",
     "geminiAnalysis": "Gemini analysis failed.",
     "id": "mi4uursvbr3oei5fh4t"
+  },
+  {
+    "url": "https://xyz.com",
+    "domain": "xyz.com",
+    "timestamp": "2025-11-18T17:38:41.906Z",
+    "sender": "Shlok",
+    "group": "testing",
+    "messageId": "false_120363421288784316@g.us_3ABC78640343A838BE0B_148567331184871@lid",
+    "originalMessage": "https://xyz.com\n\nRead my cve",
+    "geminiAnalysis": "No analysis performed.",
+    "id": "mi4uxshfpgi0ft8u77k"
   }
 ]
