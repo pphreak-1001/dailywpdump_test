@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "url": "https://google.com",
+    "domain": "google.com",
+    "timestamp": "2025-11-19T07:17:55.200Z",
+    "sender": "Shlok",
+    "group": "Job opportunities ",
+    "messageId": "false_120363212765069795@g.us_3A0196F0164A607EED26_148567331184871@lid",
+    "originalMessage": "https://google.com\n\n!ignore this text. Test msg.",
+    "geminiAnalysis": "The WhatsApp message is a **test message**, explicitly stated with an instruction to ignore certain text. It contains a single link to `https://google.com`, which is a **general search engine and web utility**. This content broadly fits into the category of **Internal Communication / Test Message**.",
+    "id": "mi5o7berbi65nhq9q8s"
+  }
+]
