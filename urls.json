@@ -20,5 +20,16 @@
     "originalMessage": "https://example.com\n\n!ignore this text. Test msg.",
     "geminiAnalysis": "Gemini analysis failed.",
     "id": "mi5omwp21168si99ebv"
+  },
+  {
+    "url": "https://blog.cloudflare.com/18-november-2025-outage/",
+    "domain": "blog.cloudflare.com",
+    "timestamp": "2025-11-19T07:32:11.187Z",
+    "sender": "917835908810",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_3EB0A04082C2EED5493FC2_245380205785133@lid",
+    "originalMessage": "full story : https://blog.cloudflare.com/18-november-2025-outage/",
+    "geminiAnalysis": "The WhatsApp message shares a link to an official Cloudflare blog post providing the \"full story\" of an outage that occurred on November 18, 2025. The shared link is a direct technical/corporate communication from Cloudflare, likely detailing an incident report or a post-mortem analysis of a service disruption. This content falls under the nature of **Technical Incident Reporting** or **Company Updates**.",
+    "id": "mi5opnwve87scxpbjab"
   }
 ]
