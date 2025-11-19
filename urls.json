@@ -9,5 +9,16 @@
     "originalMessage": "https://google.com\n\n!ignore this text. Test msg.",
     "geminiAnalysis": "The WhatsApp message is a **test message**, explicitly stated with an instruction to ignore certain text. It contains a single link to `https://google.com`, which is a **general search engine and web utility**. This content broadly fits into the category of **Internal Communication / Test Message**.",
     "id": "mi5o7berbi65nhq9q8s"
+  },
+  {
+    "url": "https://example.com",
+    "domain": "example.com",
+    "timestamp": "2025-11-19T07:30:02.595Z",
+    "sender": "Shlok",
+    "group": "Job opportunities ",
+    "messageId": "false_120363212765069795@g.us_3A004DE46A21DF1B7D1B_148567331184871@lid",
+    "originalMessage": "https://example.com\n\n!ignore this text. Test msg.",
+    "geminiAnalysis": "Gemini analysis failed.",
+    "id": "mi5omwp21168si99ebv"
   }
 ]
