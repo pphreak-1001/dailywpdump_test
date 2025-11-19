@@ -42,5 +42,16 @@
     "originalMessage": "https://test.com",
     "geminiAnalysis": "Gemini analysis failed.",
     "id": "mi5u8wsiavo4jbqgdmt"
+  },
+  {
+    "url": "https://medium.com/@insanemechanic/europes-new-fear-can-chinese-electric-buses-be-shut-down-with-a-remote-kill-switch-15723c5eb844",
+    "domain": "medium.com",
+    "timestamp": "2025-11-19T17:21:59.992Z",
+    "sender": "Sumit",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_3AF27B37654FCAC11B7D_26199434784974@lid",
+    "originalMessage": "https://medium.com/@insanemechanic/europes-new-fear-can-chinese-electric-buses-be-shut-down-with-a-remote-kill-switch-15723c5eb844",
+    "geminiAnalysis": "The WhatsApp message contains a link to an article on Medium discussing a European concern regarding Chinese electric buses. The article questions whether these buses could be remotely disabled via a \"kill switch,\" touching on themes of national security, supply chain vulnerabilities, and technological dependence. The nature of the shared link is an analytical blog post or opinion piece. The content category is best described as **Geopolitical/Tech Analysis**.",
+    "id": "mi69s62ihnv2go1meqq"
   }
 ]
