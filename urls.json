@@ -31,5 +31,16 @@
     "originalMessage": "full story : https://blog.cloudflare.com/18-november-2025-outage/",
     "geminiAnalysis": "The WhatsApp message shares a link to an official Cloudflare blog post providing the \"full story\" of an outage that occurred on November 18, 2025. The shared link is a direct technical/corporate communication from Cloudflare, likely detailing an incident report or a post-mortem analysis of a service disruption. This content falls under the nature of **Technical Incident Reporting** or **Company Updates**.",
     "id": "mi5opnwve87scxpbjab"
+  },
+  {
+    "url": "https://test.com",
+    "domain": "test.com",
+    "timestamp": "2025-11-19T10:07:07.225Z",
+    "sender": "Shlok",
+    "group": "Job opportunities ",
+    "messageId": "false_120363212765069795@g.us_3A958CF3E2FDDADD61A7_148567331184871@lid",
+    "originalMessage": "https://test.com",
+    "geminiAnalysis": "Gemini analysis failed.",
+    "id": "mi5u8wsiavo4jbqgdmt"
   }
 ]
