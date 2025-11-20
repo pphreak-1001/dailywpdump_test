@@ -64,5 +64,16 @@
     "originalMessage": "https://thehackernews.com/2025/11/python-based-whatsapp-worm-spreads.html?m=1\n\nA new campaign in Brazil uses a Python-based WhatsApp worm to spread the Eternidade Stealer banking trojan, which leverages a combination of social engineering and WhatsApp hijacking to propagate malware across devices. The malware employs IMAP for dynamic command-and-control updates, targets only Portuguese systems, automates message spreading via WPPConnect, and uses geofencing and process injection for credential theft and evasive control.",
     "geminiAnalysis": "This WhatsApp message describes a significant cybersecurity threat: a sophisticated Python-based WhatsApp worm called \"Eternidade Stealer\" actively spreading in Brazil. It highlights the malware's use of social engineering, WhatsApp hijacking, advanced C2 mechanisms, and credential theft techniques specifically targeting Portuguese systems. The shared link is a news article from The Hacker News, a prominent cybersecurity news publication, providing in-depth details about this specific threat.\n\n**Category:** Cybersecurity News/Alert",
     "id": "mi6youvp6xrhorfyqh3"
+  },
+  {
+    "url": "https://unstop.com/o/Ig3Hw9T?lb=TDWiFJC2&utm_medium=Share&utm_source=divyasrm99690&utm_campaign=Workshops",
+    "domain": "unstop.com",
+    "timestamp": "2025-11-20T07:56:31.637Z",
+    "sender": "Divyanka Kirola",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_ACBFB371E6048BEA1ED89BFFAFB5AFA7_264217831674067@lid",
+    "originalMessage": "🌟 Big Announcement! 🌟\nHey everyone!\n\nWe’re super excited to share that CyberZee, in collaboration with CRAC Learning, is hosting an inspiring and power-packed online session “Bytes of Truth”! 🎉\n\n🗓 Date: 23rd November\n⏰ Time: 02:00 PM – 04:00 PM\n🌐 Mode: Online (Join from anywhere!)\n👥 Who can join? Open to all students from any university!\n\nIf you're passionate about technology, eager to explore new ideas, or looking to connect with like-minded learners, Bytes of Truth is the perfect opportunity for you! 🚀\n\n💡 Why should you join?\n\n✅ Hear from industry experts\n✅ Explore the latest trends and insights\n✅ Network with students across the nation\n✅ Elevate your skills and knowledge\n✅ 100% FREE for everyone\n\nDon’t miss out on this amazing learning experience!\n\n👉 Register now: https://unstop.com/o/Ig3Hw9T?lb=TDWiFJC2&utm_medium=Share&utm_source=divyasrm99690&utm_campaign=Workshops\n\nSpread the word among your friends and classmates let’s make Bytes of Truth a huge success! 💡\n\nSee you all there! 🙌",
+    "geminiAnalysis": "The WhatsApp message announces a free online technology session named \"Bytes of Truth,\" co-hosted by CyberZee and CRAC Learning on November 23rd, from 2:00 PM to 4:00 PM. It is open to all university students, offering insights from industry experts, discussions on latest trends, networking opportunities, and skill enhancement. The shared link directs to `unstop.com`, which is an **educational event/workshop registration platform**. This message serves as an **Educational Event Invitation**.",
+    "id": "mi750tg82qea3qprojt"
   }
 ]
