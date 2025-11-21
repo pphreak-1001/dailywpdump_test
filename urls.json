@@ -130,5 +130,16 @@
     "originalMessage": "https://cybersecuritynews.com/critical-windows-graphics-vulnerability/amp/\n\nA critical remote code execution vulnerability (CVE-2025-50165) in Microsoft’s Windows Graphics Component allows attackers to take control of systems via specially crafted JPEG images without user interaction. Discovered in May 2025 and patched in August 2025, this flaw affects recent Windows versions using vulnerable windowscodecs.dll builds and can be exploited through embedded images in common documents, posing severe risks to unpatched systems.",
     "geminiAnalysis": "The WhatsApp message describes a critical remote code execution vulnerability (CVE-2025-50165) in Microsoft's Windows Graphics Component, which allows attackers to take control of systems via specially crafted JPEG images without user interaction. The shared link, `https://cybersecuritynews.com/critical-windows-graphics-vulnerability/amp/`, is a **news article** providing detailed information and context about this specific cybersecurity threat. This content falls under the category of **Cybersecurity News/Alerts**.",
     "id": "mi8dpn5g6pzu6inna09"
+  },
+  {
+    "url": "https://www.linkedin.com/posts/%E5%AD%90%E9%9B%8B-%E9%99%B3-11087825b_shellcode-ide-makes-developing-and-analyzing-ugcPost-7387871131342397440-Bh1L?utm_source=share&utm_medium=member_android&rcm=ACoAACk4zDgBc8h5gf1Voa2kGuwDWzotDs3Kr40",
+    "domain": "www.linkedin.com",
+    "timestamp": "2025-11-21T07:03:07.276Z",
+    "sender": "Kartikey Jain",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_ACFA99B8AB2020DADE38BCD783DC6F14_64089619456140@lid",
+    "originalMessage": "https://www.linkedin.com/posts/%E5%AD%90%E9%9B%8B-%E9%99%B3-11087825b_shellcode-ide-makes-developing-and-analyzing-ugcPost-7387871131342397440-Bh1L?utm_source=share&utm_medium=member_android&rcm=ACoAACk4zDgBc8h5gf1Voa2kGuwDWzotDs3Kr40",
+    "geminiAnalysis": "The WhatsApp message contains a link to a LinkedIn post from a user named (likely) Zidan Chen. The post's title visible in the URL indicates it discusses a \"Shellcode IDE\" for developing and analyzing, suggesting a highly technical topic related to software development or cybersecurity. The nature of the shared link is social media, specifically from a professional networking platform.\n\n**Category:** Professional/Technical Discussion (or Cybersecurity/Software Development)",
+    "id": "mi8ijzm4r33la8mv2s"
   }
 ]
