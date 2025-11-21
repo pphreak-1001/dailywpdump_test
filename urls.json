@@ -108,5 +108,16 @@
     "originalMessage": "https://www.linkedin.com/posts/sukalyan-naskar-41907413a_senior-vulnerability-management-analyst-in-activity-7397238397888606208-QnCi?utm_source=share&utm_medium=member_android&rcm=ACoAACk4zDgBc8h5gf1Voa2kGuwDWzotDs3Kr40",
     "geminiAnalysis": "The WhatsApp message contains a single URL directing to a LinkedIn post by Sukalyan Naskar. Based on the URL structure and embedded text, the content of the post is related to a \"Senior Vulnerability Management Analyst\" role or activity, likely a job posting, career update, or industry-specific discussion. The nature of the shared link is professional social media and networking.\n\n**Category:** Professional/Job-related content.",
     "id": "mi7oxj0v8exb1vzyd7c"
+  },
+  {
+    "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/",
+    "domain": "www.bleepingcomputer.com",
+    "timestamp": "2025-11-21T04:38:56.241Z",
+    "sender": "Debleena 💜",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_AC8A06A3A02B1C0B064B9ADE72C24F12_150504411775022@lid",
+    "originalMessage": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/\nD-Link has warned of four new vulnerabilities, including three remotely exploitable RCE flaws, affecting all versions of its end-of-life DIR-878 routers, with public PoC code now available. These flaws will not be patched and pose significant risk, especially as botnets increasingly target these devices using published exploits.",
+    "geminiAnalysis": "This WhatsApp message contains a cybersecurity news alert from BleepingComputer.com, warning users about severe, unpatched Remote Code Execution (RCE) vulnerabilities in end-of-life D-Link DIR-878 routers, emphasizing the significant risk of botnet exploitation due to publicly available exploit code. The nature of the shared link is **news**, specifically **cybersecurity news**.\n\n**Category:** Cybersecurity Alert / Tech News",
+    "id": "mi8dekfo62s1u8yooav"
   }
 ]
