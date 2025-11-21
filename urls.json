@@ -119,5 +119,16 @@
     "originalMessage": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/\nD-Link has warned of four new vulnerabilities, including three remotely exploitable RCE flaws, affecting all versions of its end-of-life DIR-878 routers, with public PoC code now available. These flaws will not be patched and pose significant risk, especially as botnets increasingly target these devices using published exploits.",
     "geminiAnalysis": "This WhatsApp message contains a cybersecurity news alert from BleepingComputer.com, warning users about severe, unpatched Remote Code Execution (RCE) vulnerabilities in end-of-life D-Link DIR-878 routers, emphasizing the significant risk of botnet exploitation due to publicly available exploit code. The nature of the shared link is **news**, specifically **cybersecurity news**.\n\n**Category:** Cybersecurity Alert / Tech News",
     "id": "mi8dekfo62s1u8yooav"
+  },
+  {
+    "url": "https://cybersecuritynews.com/critical-windows-graphics-vulnerability/amp/",
+    "domain": "cybersecuritynews.com",
+    "timestamp": "2025-11-21T04:47:32.980Z",
+    "sender": "Debleena 💜",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_AC3B764BB6F99A7F3C41C898C2E99E75_150504411775022@lid",
+    "originalMessage": "https://cybersecuritynews.com/critical-windows-graphics-vulnerability/amp/\n\nA critical remote code execution vulnerability (CVE-2025-50165) in Microsoft’s Windows Graphics Component allows attackers to take control of systems via specially crafted JPEG images without user interaction. Discovered in May 2025 and patched in August 2025, this flaw affects recent Windows versions using vulnerable windowscodecs.dll builds and can be exploited through embedded images in common documents, posing severe risks to unpatched systems.",
+    "geminiAnalysis": "The WhatsApp message describes a critical remote code execution vulnerability (CVE-2025-50165) in Microsoft's Windows Graphics Component, which allows attackers to take control of systems via specially crafted JPEG images without user interaction. The shared link, `https://cybersecuritynews.com/critical-windows-graphics-vulnerability/amp/`, is a **news article** providing detailed information and context about this specific cybersecurity threat. This content falls under the category of **Cybersecurity News/Alerts**.",
+    "id": "mi8dpn5g6pzu6inna09"
   }
 ]
