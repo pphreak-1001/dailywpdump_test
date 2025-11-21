@@ -141,5 +141,16 @@
     "originalMessage": "https://www.linkedin.com/posts/%E5%AD%90%E9%9B%8B-%E9%99%B3-11087825b_shellcode-ide-makes-developing-and-analyzing-ugcPost-7387871131342397440-Bh1L?utm_source=share&utm_medium=member_android&rcm=ACoAACk4zDgBc8h5gf1Voa2kGuwDWzotDs3Kr40",
     "geminiAnalysis": "The WhatsApp message contains a link to a LinkedIn post from a user named (likely) Zidan Chen. The post's title visible in the URL indicates it discusses a \"Shellcode IDE\" for developing and analyzing, suggesting a highly technical topic related to software development or cybersecurity. The nature of the shared link is social media, specifically from a professional networking platform.\n\n**Category:** Professional/Technical Discussion (or Cybersecurity/Software Development)",
     "id": "mi8ijzm4r33la8mv2s"
+  },
+  {
+    "url": "https://github.com/CX330Blake/Shellcode-IDE",
+    "domain": "github.com",
+    "timestamp": "2025-11-21T07:03:08.967Z",
+    "sender": "Kartikey Jain",
+    "group": "CRAC LEARNING COMMUNITY DISCUSSIONS",
+    "messageId": "false_120363165101837196@g.us_AC4EBEB845EBC0F14D7971E9AFA9A1E9_64089619456140@lid",
+    "originalMessage": "https://github.com/CX330Blake/Shellcode-IDE",
+    "geminiAnalysis": "The WhatsApp message contains a link to a GitHub repository for a project titled \"Shellcode-IDE.\" This is a highly technical link leading to an open-source software development tool, specifically an Integrated Development Environment designed for creating or managing shellcode. The nature of the shared link is a **technical project repository**, primarily for **Software Development** with a focus on cybersecurity or low-level programming.",
+    "id": "mi8ik0x3dnqhw8yxd1e"
   }
 ]
